@@ -1,0 +1,34 @@
+2020-12-11 10:16:55,424 -- SING UP: user:fbi
+2020-12-11 10:17:09,155 -- LOGIN: user:fbi
+2020-12-11 10:18:01,957 -- LOGOUT: user:fbi
+2020-12-11 10:24:33,215 -- SING UP: user:test1
+2020-12-14 23:01:32,360 -- SING UP: user:ksa
+2020-12-14 23:01:52,009 -- LOGIN: user:ksa
+2020-12-14 23:04:56,869 -- LOGIN: user:ksa
+2020-12-14 23:10:25,662 -- LOGIN: user:ksa
+2020-12-14 23:13:46,576 -- LOGIN: user:ksa
+2020-12-14 23:14:37,193 -- LOGOUT: user:ksa
+2020-12-14 23:20:29,875 -- LOGIN: user:ksa
+2020-12-14 23:21:19,117 -- LOGIN: user:ksa
+2020-12-14 23:23:12,289 -- LOGOUT: user:ksa
+2020-12-14 23:23:20,666 -- LOGIN: user:ksa
+2020-12-14 23:24:27,640 -- LOGIN: user:ksa
+2020-12-14 23:26:38,115 -- LOGIN: user:ksa
+2020-12-14 23:27:44,032 -- LOGIN: user:ksa
+2020-12-14 23:39:07,428 -- LOGIN: user:ksa
+2020-12-14 23:40:21,160 -- LOGIN: user:ksa
+2020-12-14 23:44:45,158 -- LOGIN: user:ksa
+2020-12-14 23:46:07,768 -- LOGIN: user:ksa
+2020-12-14 23:46:29,243 -- LOGOUT: user:ksa
+2020-12-14 23:47:02,333 -- LOGIN: user:ksa
+2020-12-14 23:48:03,334 -- LOGIN: user:ksa
+2020-12-14 23:48:13,060 -- LOGOUT: user:ksa
+2020-12-14 23:48:35,962 -- LOGIN: user:ksa
+2020-12-14 23:49:11,365 -- LOGIN: user:ksa
+2020-12-14 23:49:28,024 -- LOGOUT: user:ksa
+2020-12-14 23:49:36,023 -- LOGIN: user:ksa
+2020-12-14 23:50:40,108 -- LOGIN: user:ksa
+2020-12-14 23:53:39,226 -- LOGIN: user:ksa
+2020-12-14 23:54:13,932 -- BUY WEAPON: user:ksa -- weapon:AK-47
+2020-12-15 00:04:50,120 -- SING UP: user:ksa
+2020-12-15 00:05:52,498 -- SING UP: user:ksa
